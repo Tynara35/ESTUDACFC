@@ -1,0 +1,1 @@
+{"name":"meu-estudo-cfc","version":"2.0.0","private":true,"description":"PWA pessoal para estudar o Exame de Suficiência do CFC","scripts":{"dev":"node scripts/serve.cjs","test":"node --test tests/*.test.cjs"},"engines":{"node":">=20"}}
